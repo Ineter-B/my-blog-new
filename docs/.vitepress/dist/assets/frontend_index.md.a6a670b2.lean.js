@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as a,d as e}from"./app.2fbd891a.js";const b=JSON.parse('{"title":"box test","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/index.md"}'),i={name:"frontend/index.md"},o=e("",6),c=[o];function n(d,l,r,p,_,m){return a(),t("div",null,c)}const h=s(i,[["render",n]]);export{b as __pageData,h as default};
